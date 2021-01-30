@@ -1,4 +1,4 @@
-# JuegoVR-II
+## JuegoVR-II <!-- omit in toc -->
 
 - Universidad de La Laguna
 - **Asignatura:** Interfaces Inteligentes
@@ -6,30 +6,34 @@
 
 <br>
 
-## Autores
 
-- Óscar Moreira Estévez
-- Miguel Ángel Ordoñez 
-- Christian
+
+## Índice <!-- omit in toc -->
+
+- [Autores](#autores)
+- [Introducción](#introducción)
+  - [Descripción del juego](#descripción-del-juego)
+- [Estructura de los scripts](#estructura-de-los-scripts)
+- [Elementos externos usados](#elementos-externos-usados)
+- [Cuestiones importantes para el uso](#cuestiones-importantes-para-el-uso)
+- [Hitos de programación logrados](#hitos-de-programación-logrados)
+- [Aspectos destacables del juego](#aspectos-destacables-del-juego)
+- [Metodología de trabajo](#metodología-de-trabajo)
+- [Reparto de tareas](#reparto-de-tareas)
+- [Gifs de demostración del juego](#gifs-de-demostración-del-juego)
+- [Enlaces de interés](#enlaces-de-interés)
+  - [Gameplay del juego](#gameplay-del-juego)
+  - [APK](#apk)
+  - [Github Proyecto completo](#github-proyecto-completo)
+- [Posibles mejoras a futuro](#posibles-mejoras-a-futuro)
 
 <br>
 
-## Índice
+## Autores 
 
-- Introducción
-- Estructura de los scripts
-- Elementos externos usados
-- Cuestiones importantes para el uso
-- Hitos de programación logrados
-- Aspectos destacables
-- Reparto de tareas
-- Metodología de trabajo
-- Gifs de demostración del juego
-- Enlaces de interés
-  - Gameplay del juego
-  - APK
-  - Github Proyecto completo
-- Posibles futuras mejoras
+- Óscar Moreira Estévez
+- Miguel Ángel Ordoñez 
+- Christian Torres González
 
 <br>
 
@@ -82,7 +86,7 @@ Si quieres llegar a entrar a la cueva tendrás que encontrar también por el map
 
 <br>
 
-# Elementos externos usados
+## Elementos externos usados
 
 Para el juego se han usado elementos externos conseguidos en la **Asset Store** aunque posteriormente se han modificado a nuestro gusto como pueden ser los siguientes:
 
@@ -96,13 +100,14 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 
 ## Cuestiones importantes para el uso
 
+
 <br>
 
 ## Hitos de programación logrados
 
 <br>
 
-## Aspectos destacables
+## Aspectos destacables del juego
 
 <br>
 
@@ -164,4 +169,4 @@ En el siguiente enlace encontrarán un repositorio de Github donde se encuentra 
   
 <br>
 
-## Posibles futuras mejoras
+## Posibles mejoras a futuro
