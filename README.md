@@ -11,6 +11,7 @@
 - [1. Autores](#1-autores)
 - [2. Introducción](#2-introducción)
   - [2.1. Descripción del juego](#21-descripción-del-juego)
+  - [2.2. Descripción del mapa](#22-descripción-del-mapa)
 - [3. Estructura de los scripts](#3-estructura-de-los-scripts)
 - [4. Elementos externos usados](#4-elementos-externos-usados)
 - [5. Cuestiones importantes para el uso](#5-cuestiones-importantes-para-el-uso)
@@ -52,6 +53,9 @@ Cuando entres a jugar a **Hunter Jaeger** te encontrarás en una isla perdida do
 Si quieres llegar a entrar a la cueva tendrás que encontrar también por el mapa alguna granada para derribar la entrada.
 
 > NOTA: sólo contarás con una pistola y tu inteligencia para poder conseguir el objetivo
+
+
+### 2.2. Descripción del mapa
 
 <br>
 
@@ -107,11 +111,19 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 <br>
 
 ## 6. Hitos de programación logrados
+- delegados
+- sonidos
+- animaciones
+- 
 
 <br>
 
 ## 7. Aspectos destacables del juego
 
+- Evitar mareos teniendo transiciones entre escenas
+- sonido para una mayor inmersión 
+- rididbody para movimientos y colisiones
+- 
 <br>
 
 ## 8. Metodología de trabajo
@@ -127,15 +139,13 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
 - **Óscar Moreira Estévez**
   - Recolectar objetos
   - Creación de pistola y disparo de la misma
-  - Iluminación de la cueva
-  - Busqueda de prefabs de enemigos
   - Persecución del enemigo al jugador
   - Funcionamiento de la Brújula
   - Canvas con Brújula en el juego
   - Documentación del proyecto
   
 - **Miguel Ángel Ordoñez**
-  - Mapa del juego
+  - Mapa exterior del juego
   - Movimiento del jugador
   - Canvas de la vida y daño del juego
   - Pistola en primera persona en VR
@@ -145,15 +155,24 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
   - Sitema de vida y daño del jugador y enemigos
   - Elementos de vida y poder en el mapa
   - Efectos de sonido del juego
+  - Optimizar juego para VR
+  - Destruir entrada a la cueva con granada
 
 - **Tareas en común**
+  - Busqueda de prefabs usados en el juego
+  - Creación de la cueva
+  - Ajuste de colliders
 
 ## 10. Gifs de demostración del juego
 
-En los siguientes gifs podremos ver diferentes acciones que podemos tener en el juego.
+En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos tener en el juego.
 
 - Mapa exterior
+  - Imagen desde arriba del mapa
+  - Gif en primera persona del mapa
 - Cueva
+  - Imagen desde arriba de la cueva
+  - Gif en primera persona de la cueva
 - Movilidad del jugador
 - Brújula del juego
 - Disparar
