@@ -6,44 +6,46 @@
 
 <br>
 
-
-
 ## Índice <!-- omit in toc -->
 
-- [Autores](#autores)
-- [Introducción](#introducción)
-  - [Descripción del juego](#descripción-del-juego)
-- [Estructura de los scripts](#estructura-de-los-scripts)
-- [Elementos externos usados](#elementos-externos-usados)
-- [Cuestiones importantes para el uso](#cuestiones-importantes-para-el-uso)
-- [Hitos de programación logrados](#hitos-de-programación-logrados)
-- [Aspectos destacables del juego](#aspectos-destacables-del-juego)
-- [Metodología de trabajo](#metodología-de-trabajo)
-- [Reparto de tareas](#reparto-de-tareas)
-- [Gifs de demostración del juego](#gifs-de-demostración-del-juego)
-- [Enlaces de interés](#enlaces-de-interés)
-  - [Gameplay del juego](#gameplay-del-juego)
-  - [APK](#apk)
-  - [Github Proyecto completo](#github-proyecto-completo)
-- [Posibles mejoras a futuro](#posibles-mejoras-a-futuro)
+- [1. Autores](#1-autores)
+- [2. Introducción](#2-introducción)
+  - [2.1. Descripción del juego](#21-descripción-del-juego)
+- [3. Estructura de los scripts](#3-estructura-de-los-scripts)
+- [4. Elementos externos usados](#4-elementos-externos-usados)
+- [5. Cuestiones importantes para el uso](#5-cuestiones-importantes-para-el-uso)
+- [6. Hitos de programación logrados](#6-hitos-de-programación-logrados)
+- [7. Aspectos destacables del juego](#7-aspectos-destacables-del-juego)
+- [8. Metodología de trabajo](#8-metodología-de-trabajo)
+- [9. Reparto de tareas](#9-reparto-de-tareas)
+- [10. Gifs de demostración del juego](#10-gifs-de-demostración-del-juego)
+- [11. Enlaces de interés](#11-enlaces-de-interés)
+  - [11.1. Gameplay del juego](#111-gameplay-del-juego)
+  - [11.2. APK](#112-apk)
+  - [11.3. Github Proyecto completo](#113-github-proyecto-completo)
+- [12. Posibles mejoras a futuro](#12-posibles-mejoras-a-futuro)
+
+
 
 <br>
 
-## Autores 
+## 1. Autores 
 
-- Óscar Moreira Estévez
-- Miguel Ángel Ordoñez 
-- Christian Torres González
+- Óscar Moreira Estévez (alu0101209067)
+- Miguel Ángel Ordoñez (alu0101281087)
+- Christian Torres González (alu0101137902)
 
 <br>
 
-## Introducción
+## 2. Introducción
 
 Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** creado para dispositivos Android creado con *Unity 3D*.
 
+Se han aplicado diferentes técnicas aprendidas en la asignatura y otras nuevas  a lo largo del proyecto que explicaremos más adelante.
+
 <br>
 
-### Descripción del juego
+### 2.1. Descripción del juego
 
 Cuando entres a jugar a **Hunter Jaeger** te encontrarás en una isla perdida donde tendrás como objetivo matar al gran dragón protector de la cueva. Si quieres aumentar tu poder o tu vida inicial para combatir contra este dragon deberás ir por el mapa buscando elementos que te proporcionen estas mejoras, pero no sin antes haber matado a los dragones protectores de estos elementos que son súbditos del protector de la cueva.
 
@@ -53,7 +55,7 @@ Si quieres llegar a entrar a la cueva tendrás que encontrar también por el map
 
 <br>
 
-## Estructura de los scripts
+## 3. Estructura de los scripts
 
 - Canvas
   - CompassFollowCharacter.cs
@@ -70,7 +72,7 @@ Si quieres llegar a entrar a la cueva tendrás que encontrar también por el map
     - damagePlayer.cs
     - vidaJugador.cs
 - Menu
-  - PlayButton.cs
+  - PlayButton.cs 
   - QuitButton.cs
   - StartButton.cs
 - Movement
@@ -86,32 +88,33 @@ Si quieres llegar a entrar a la cueva tendrás que encontrar también por el map
 
 <br>
 
-## Elementos externos usados
+## 4. Elementos externos usados
 
 Para el juego se han usado elementos externos conseguidos en la **Asset Store** aunque posteriormente se han modificado a nuestro gusto como pueden ser los siguientes:
 
   - Modelo de la pistola
-  - Modelo de la cueva (Posteriormente modificado por completo a nuestro gusto)
+  - Modelo de la cueva (Posteriormente modificado por completo)
   - Figuras que servirán como elementos para obtener vida o poder
   - Modelo de una granada
+  - Agua del mar
   - Dragones
 
 <br>
 
-## Cuestiones importantes para el uso
+## 5. Cuestiones importantes para el uso
 
 
 <br>
 
-## Hitos de programación logrados
+## 6. Hitos de programación logrados
 
 <br>
 
-## Aspectos destacables del juego
+## 7. Aspectos destacables del juego
 
 <br>
 
-## Metodología de trabajo
+## 8. Metodología de trabajo
 
 Para este proyecto se ha usado una metodología **Scrum**, de tal manera que hemos ido poniendo objetivos para una fecha en concreta, repartiendonos las tareas y haciendo reuniones en estas fechas de entregas para ver si hemos conseguido los objetivos propuestos, que poder mejorar y pensar en nuevos objetivos para la siguiente fecha.
 
@@ -119,13 +122,13 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
 
 <br>
 
-## Reparto de tareas
+## 9. Reparto de tareas
 
 - **Óscar Moreira Estévez**
   - Recolectar objetos
   - Creación de pistola y disparo de la misma
   - Iluminación de la cueva
-  - Enemigos
+  - Busqueda de prefabs de enemigos
   - Persecución del enemigo al jugador
   - Funcionamiento de la Brújula
   - Canvas con Brújula en el juego
@@ -133,6 +136,7 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
   
 - **Miguel Ángel Ordoñez**
   - Mapa del juego
+  - Movimiento del jugador
   - Canvas de la vida y daño del juego
   - Pistola en primera persona en VR
   - Menú del juego cuando empieza el juego y cuando acaba
@@ -144,24 +148,37 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
 
 - **Tareas en común**
 
-## Gifs de demostración del juego
+## 10. Gifs de demostración del juego
+
+En los siguientes gifs podremos ver diferentes acciones que podemos tener en el juego.
+
+- Mapa exterior
+- Cueva
+- Movilidad del jugador
+- Brújula del juego
+- Disparar
+- Matar dragón
+- Recoger vida
+- Recoger poder
+- Recoger granada
+- Lanzar granada para abrir la entrada de la cueva
 
 <br>
 
-## Enlaces de interés
+## 11. Enlaces de interés
 
-### Gameplay del juego
+### 11.1. Gameplay del juego
 En el siguiente enlace pueden encontrar un video de demostración del juego donde se demuestran todo lo creado en este proyecto:
 
 - [Enlace al gameplay](https://drive.google.com/drive/folders/1-cQTrgxszc4wIrp4r8fXu5XaZrM-wVMj?usp=sharing)
 
-### APK
+### 11.2. APK
 
 En este enlace encontrarán la apk del juego para Android para poder descargarla y probarlo:
 
 - [Enlace a la APK](https://drive.google.com/drive/folders/1YtmsQQzDkYqvRnYO_EpQO6FjYOqmcLBc?usp=sharing)
 
-### Github Proyecto completo
+### 11.3. Github Proyecto completo
 
 En el siguiente enlace encontrarán un repositorio de Github donde se encuentra todo el proyecto completo para poder descargarlo y ejecutarlo en Unity:
 
@@ -169,4 +186,6 @@ En el siguiente enlace encontrarán un repositorio de Github donde se encuentra 
   
 <br>
 
-## Posibles mejoras a futuro
+## 12. Posibles mejoras a futuro
+
+- Guardar proceso del jugador
