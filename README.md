@@ -41,7 +41,11 @@ Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** c
 
 ### Descripción del juego
 
-Cuando entres a jugar a **Hunter Jaeger** te encontrarás en una isla perdida donde tendrás como objetivo 
+Cuando entres a jugar a **Hunter Jaeger** te encontrarás en una isla perdida donde tendrás como objetivo matar al gran dragón protector de la cueva. Si quieres aumentar tu poder o tu vida inicial para combatir contra este dragon deberás ir por el mapa buscando elementos que te proporcionen estas mejoras, pero no sin antes haber matado a los dragones protectores de estos elementos que son súbditos del protector de la cueva.
+
+Si quieres llegar a entrar a la cueva tendrás que encontrar también por el mapa alguna granada para derribar la entrada.
+
+> NOTA: sólo contarás con una pistola y tu inteligencia para poder conseguir el objetivo
 
 <br>
 
