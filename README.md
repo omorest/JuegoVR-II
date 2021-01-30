@@ -42,7 +42,7 @@
 
 Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** creado para dispositivos Android creado con *Unity 3D*.
 
-Se han aplicado diferentes técnicas aprendidas en la asignatura y otras nuevas  a lo largo del proyecto que explicaremos más adelante.
+Se han aplicado diferentes técnicas aprendidas en la asignatura y otras nuevas a lo largo del proyecto que explicaremos más adelante.
 
 <br>
 
@@ -123,7 +123,7 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 - Evitar mareos teniendo transiciones entre escenas
 - sonido para una mayor inmersión 
 - rididbody para movimientos y colisiones
-- 
+
 <br>
 
 ## 8. Metodología de trabajo
