@@ -52,7 +52,7 @@ Cuando entres a jugar a **Hunter Jaeger** te encontrarás en una isla perdida do
 
 Si quieres llegar a entrar a la cueva tendrás que encontrar también por el mapa alguna granada para derribar la entrada.
 
-> NOTA: sólo contarás con una pistola y tu inteligencia para poder conseguir el objetivo
+> NOTA: sólo contarás con una pistola y tu capacidad de supervivencia para poder conseguir el objetivo
 
 
 ### Descripción del mapa
