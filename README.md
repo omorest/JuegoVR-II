@@ -69,33 +69,39 @@ En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comenta
 ## 3. Estructura de los scripts
 
 - Canvas
-  - CompassFollowCharacter.cs
-  - ShowPlayerHealth.cs
+  - [CompassController.cs](./scripts/Canvas/CompassController.cs)
+  - [ShowPlayerHealth.cs](./scripts/Canvas/ShowPlayerHealth.cs)
+  - [ShowPlayerPower.cs](./scripts/Canvas/ShowPlayerPower.cs)
+- Collectables
+  - [GetCollectable.cs](./scripts/Collectables/GetCollectable.cs)
+- Controller
+  - [DelegateController.cs](./scripts/Controller/DelegateController.cs)
 - Enemy
-  - FollowPlayer.cs
-- LifeSystem
-  - Controller
-    - controladorDelegados.cs
-  - Enemy
-    - damageTroll.cs
-    - vidaTroll.cs
-  - Player
-    - damagePlayer.cs
-    - vidaJugador.cs
+  - [DamageToDragon.cs](./scripts/Enemy/DamageToDragon.cs)
+  - [DragonLifeSystem.cs](./scripts/Enemy/DragonLifeSystem.cs)
+  - [FollowPlayer.cs](./scripts/Enemy/FollowPlayer.cs)
+- FinalEnemy
+  - [FinalDragonFollowPlayer.cs](./scripts/FinalEnemy/FinalDragonFollowPlayer.cs)
+  - [FinalDragonLifeSystem.cs](./scripts/FinalEnemy/FinalDragonLifeSystem.cs)
+- Grenade
+  - [DestroyCaveRock.cs](./scripts/Grenade/DestroyCaveRock.cs)
+  - [GrenadeController.cs](./scripts/Grenade/GrenadeController.cs)
+  - [LaunchGrenade.cs](./scripts/Grenade/LaunchGrenade.cs)
+- Gun
+  - [DestroyBullet.cs](./scripts/Gun/DestroyBullet.cs)
+  - [Shot.cs](./scripts/Gun/Shot.cs)
 - Menu
-  - PlayButton.cs 
-  - QuitButton.cs
-  - StartButton.cs
-- Movement
-  - RigidbodyCharacter.cs
-- Recollect
-  - RecollectKeys
-    - RecollectKeys.cs
-    - RecollectedKeys.cs
-  - coleccionableVida.cs
-- Weapon
-  - Shot.cs
-  - eliminarBala.cs
+  - [MenuButton.cs](./scripts/Menu/MenuButton.cs)
+  - [PlayButton.cs](./scripts/Menu/PlayButton.cs)
+  - [QuitButton.cs](./scripts/Menu/QuitButton.cs)
+  - [StartButton.cs](./scripts/Menu/StartButton.cs)
+- Player
+  - [DamageToPlayer.cs](./scripts/Player/DamageToPlayer.cs)
+  - [PlayerLifeSystem.cs](./scripts/Player/PlayerLifeSystem.cs)
+  - [PlayerMovement.cs](./scripts/Player/PlayerMovement.cs)
+- Terrain
+  - [ActivateTerrain.cs](./scripts/Terrain/ActivateTerrain.cs)
+  - [DeactivateTerrain.cs](./scripts/Terrain/DeactivateTerrain.cs)
 
 <br>
 
