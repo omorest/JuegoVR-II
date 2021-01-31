@@ -113,7 +113,7 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 - Modelo de la cueva (Posteriormente modificado por completo)
 - Figuras que servirán como elementos para obtener vida o poder
 - Modelo de una granada
-- Agua del mar
+- Océano
 - Dragones
 
 <br>
