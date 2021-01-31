@@ -12,7 +12,7 @@
 - [🗣 Introducción](#-introducción)
   - [Descripción del juego](#descripción-del-juego)
   - [Descripción del mapa](#descripción-del-mapa)
-- [Estructura de los scripts](#estructura-de-los-scripts)
+- [📝Estructura de los scripts](#estructura-de-los-scripts)
 - [♥ Elementos externos usados](#-elementos-externos-usados)
 - [🎮 Cuestiones importantes para el uso](#-cuestiones-importantes-para-el-uso)
 - [📋 Hitos de programación logrados](#-hitos-de-programación-logrados)
@@ -66,7 +66,7 @@ En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comenta
   - Oasis, donde se encuentran los elementos anteriores
 <br>
 
-## Estructura de los scripts
+## 📝Estructura de los scripts
 
 - Canvas
   - [CompassController.cs](./scripts/Canvas/CompassController.cs)
