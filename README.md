@@ -40,7 +40,7 @@
 
 ## 🗣 Introducción
 
-Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** creado para dispositivos Android creado con *Unity 3D*.
+Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** creado para dispositivos Android con *Unity 3D*.
 
 Se han aplicado diferentes técnicas aprendidas en la asignatura y otras nuevas a lo largo del proyecto que explicaremos más adelante.
 
@@ -134,7 +134,7 @@ Este mando tendrá la siguiente configuración de teclas:
 
 En este juego se han aplicado muchas de las técnicas aprendidas en la asignatura y otras nuevas aprendidas a lo largo de la realización del proyecto.
 
-- Sistema de vida y de poder donde se activarán a través de métodos **delegados** para aumentar nuestra vida o poder.
+- Sistema de vida y de poder y también el uso de la granada donde se activarán a través de métodos **delegados** para aumentar nuestra vida o poder.
 - **Brújula**
   - En el juego contarás con un sistema de **sensor** como la brújula para orientarte en el juego y saber a donde ir.
 - **Sonido** del juego tanto en disparos, recolectar objetos.
@@ -281,4 +281,4 @@ jugador ya sea una relacional o una no relacional. De esta manera si cerramos el
 experiencia del usuario pero es un material del que no disponemos por lo que sería
 imposible.
 
-- Otra cosa que sería interesante es poder publicar el jueguo aunque para eso debería estar con una versión final y completa sin bugs, pero sería una idea curiosa pero imposible de hacer en este caso por tiempo.
+- Otra cosa que sería interesante es poder publicar el juego, sería una idea curiosa pero imposible de hacer en este caso por tiempo habiendo implementado estas mejoras.
