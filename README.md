@@ -33,7 +33,7 @@
 ## 1. Autores 
 
 - Óscar Moreira Estévez (alu0101209067)
-- Miguel Ángel Ordoñez (alu0101281087)
+- Miguel Ángel Ordoñez Morales (alu0101281087)
 - Christian Torres González (alu0101137902)
 
 <br>
@@ -56,7 +56,14 @@ Si quieres llegar a entrar a la cueva tendrás que encontrar también por el map
 
 
 ### 2.2. Descripción del mapa
-
+En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comentado anteriormente, entre los elementos que podemos encontrar pueden ser los siguientes:
+  - Mapa exterior con agua, palmeras, montañas, etc
+  - Cueva dentro de la montaña
+  - Corazones: nos aumentarán la vida
+  - Esferas: nos aumentarán el poder
+  - Granadas: nos servirá para destruir la entrada a la cueva
+  - Dragones que tendremos que matar para poder conseguir los elementos como esferas granadas y corazones. También se encontrarán dentro de la cueva donde estará el objetivo final.
+  - Oasis, donde se encuentran los elementos anteriores
 <br>
 
 ## 3. Estructura de los scripts
