@@ -114,7 +114,14 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 
 ## 5. Cuestiones importantes para el uso
 
+Para este juego se recomienda usar un mando de Play Station 4 ya que es con el que se ha configurado.
 
+![mando ps4](./img/ps4.png)
+
+Este mando tendrá la siguiente configuración de teclas:
+- **X:** Saltar
+- **Triángulo:** Disparar
+- **Joyctic Izquierdo:** mover al jugador
 <br>
 
 ## 6. Hitos de programación logrados
@@ -127,9 +134,15 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 
 ## 7. Aspectos destacables del juego
 
-- Evitar mareos teniendo transiciones entre escenas
-- sonido para una mayor inmersión 
-- rididbody para movimientos y colisiones
+- Se evitan mareos teniendo transiciones entre escenas
+- Sonido en el juego para tener una mejor inmersión en él.
+  - Música del juego
+  - Disparos
+  - Obtener objetos
+  - Matar dragón final 
+- Uso de Rigidbody para movimientos y colisiones más realistas
+- Movimiento del agua para más realismo
+- Animaciones en el juego como los dragones cuando nos persiguen, los matamos o cuando están en su lugar.
 
 <br>
 
