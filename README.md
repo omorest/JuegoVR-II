@@ -109,12 +109,12 @@ En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comenta
 
 Para el juego se han usado elementos externos conseguidos en la **Asset Store** aunque posteriormente se han modificado a nuestro gusto como pueden ser los siguientes:
 
-  - Modelo de la pistola
-  - Modelo de la cueva (Posteriormente modificado por completo)
-  - Figuras que servirán como elementos para obtener vida o poder
-  - Modelo de una granada
-  - Agua del mar
-  - Dragones
+- Modelo de la pistola
+- Modelo de la cueva (Posteriormente modificado por completo)
+- Figuras que servirán como elementos para obtener vida o poder
+- Modelo de una granada
+- Agua del mar
+- Dragones
 
 <br>
 
@@ -126,7 +126,7 @@ Para este juego se recomienda usar un mando de Play Station 4 ya que es con el q
 
 Este mando tendrá la siguiente configuración de teclas:
 - **Cuadrado:** Disparar
-- **Círculo:** Saltar
+- **X:** Saltar
 - **Joystick Izquierdo:** mover al jugador
 <br>
 
