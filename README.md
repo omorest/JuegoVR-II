@@ -119,8 +119,8 @@ Para este juego se recomienda usar un mando de Play Station 4 ya que es con el q
 ![mando ps4](./img/ps4.png)
 
 Este mando tendrá la siguiente configuración de teclas:
-- **X:** Saltar
-- **Triángulo:** Disparar
+- **X:** Disparar
+- **Triángulo:** Saltar
 - **Joystick Izquierdo:** mover al jugador
 <br>
 
@@ -135,6 +135,7 @@ En este juego se han aplicado muchas de las técnicas aprendidas en la asignatur
 - **Animaciones** en el juego
   - Podemos ver diferentes situaciones donde activaremos animaciones como el caso de matar a un dragón.
 - Uso de elementos de la **Asset Store** como la cueva, dragones, pistola, etc.
+- Cambio de **escenas**
 
 <br>
 
