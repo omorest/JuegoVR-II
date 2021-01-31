@@ -203,8 +203,6 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
   - Imagen desde arriba del mapa
   
     ![mapa](./img/mapa_superior.png)
-  
-  - Gif en primera persona del mapa
 
 - Cueva
   - Imagen desde arriba de la cueva
