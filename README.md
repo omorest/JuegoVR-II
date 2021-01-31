@@ -275,6 +275,8 @@ En el siguiente enlace encontrarán un repositorio de Github donde se encuentra 
 - Sería interesante tener una base de datos para guardar información del progreso del
 jugador ya sea una relacional o una no relacional. De esta manera si cerramos el juego y volvemos podemos seguir desde el punto que lo dejamos, guardando los datos como el lugar donde lo dejamos, vida, misiones conseguidas, etc.
 
+- Usar Blender para crear modelos propios del juego.
+
 - Poder implementar el uso de la voz ya que al ser android no nos dejará porque es solo una función de windows.
 
 - Implementar los mandos de realidad virtual en el juego para que sea aún más real la
