@@ -281,4 +281,4 @@ jugador ya sea una relacional o una no relacional. De esta manera si cerramos el
 experiencia del usuario pero es un material del que no disponemos por lo que sería
 imposible.
 
-- Otra cosa que sería interesante es poder publicar el juego, sería una idea curiosa pero imposible de hacer en este caso por tiempo habiendo implementado estas mejoras.
+- Otra cosa que sería interesante es poder publicar el juego, sería una buena idea pero no sin haber implementado las mejoras anteriormente comentadas.
