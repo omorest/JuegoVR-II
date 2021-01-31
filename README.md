@@ -8,29 +8,29 @@
 
 ## Índice <!-- omit in toc -->
 
-- [👨🏼‍💻 1. Autores](#-1-autores)
-- [🗣 2. Introducción](#-2-introducción)
-  - [2.1. Descripción del juego](#21-descripción-del-juego)
-  - [2.2. Descripción del mapa](#22-descripción-del-mapa)
-- [3. Estructura de los scripts](#3-estructura-de-los-scripts)
-- [4. Elementos externos usados](#4-elementos-externos-usados)
-- [5. Cuestiones importantes para el uso](#5-cuestiones-importantes-para-el-uso)
-- [6. Hitos de programación logrados](#6-hitos-de-programación-logrados)
-- [7. Aspectos destacables del juego](#7-aspectos-destacables-del-juego)
-- [8. Metodología de trabajo](#8-metodología-de-trabajo)
-- [9. Reparto de tareas](#9-reparto-de-tareas)
-- [10. Gifs de demostración del juego](#10-gifs-de-demostración-del-juego)
-- [11. Enlaces de interés](#11-enlaces-de-interés)
-  - [11.1. Gameplay del juego](#111-gameplay-del-juego)
-  - [11.2. APK](#112-apk)
-  - [11.3. Github Proyecto completo](#113-github-proyecto-completo)
-- [12. Posibles mejoras a futuro](#12-posibles-mejoras-a-futuro)
+- [👨🏼‍💻 Autores](#-autores)
+- [🗣 Introducción](#-introducción)
+  - [Descripción del juego](#descripción-del-juego)
+  - [Descripción del mapa](#descripción-del-mapa)
+- [Estructura de los scripts](#estructura-de-los-scripts)
+- [♥ Elementos externos usados](#-elementos-externos-usados)
+- [🎮 Cuestiones importantes para el uso](#-cuestiones-importantes-para-el-uso)
+- [📋 Hitos de programación logrados](#-hitos-de-programación-logrados)
+- [😲 Aspectos destacables del juego](#-aspectos-destacables-del-juego)
+- [🔧 Metodología de trabajo](#-metodología-de-trabajo)
+- [✍🏼 Reparto de tareas](#-reparto-de-tareas)
+- [📹 Gifs de demostración del juego](#-gifs-de-demostración-del-juego)
+- [🔎 Enlaces de interés](#-enlaces-de-interés)
+  - [Gameplay del juego](#gameplay-del-juego)
+  - [APK](#apk)
+  - [Github Proyecto completo](#github-proyecto-completo)
+- [💡 Posibles mejoras a futuro](#-posibles-mejoras-a-futuro)
 
 
 
 <br>
 
-## 👨🏼‍💻 1. Autores 
+## 👨🏼‍💻 Autores 
 
 - Óscar Moreira Estévez (alu0101209067)
 - Miguel Ángel Ordoñez Morales (alu0101281087)
@@ -38,7 +38,7 @@
 
 <br>
 
-## 🗣 2. Introducción
+## 🗣 Introducción
 
 Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** creado para dispositivos Android creado con *Unity 3D*.
 
@@ -46,7 +46,7 @@ Se han aplicado diferentes técnicas aprendidas en la asignatura y otras nuevas 
 
 <br>
 
-### 2.1. Descripción del juego
+### Descripción del juego
 
 Cuando entres a jugar a **Hunter Jaeger** te encontrarás en una isla perdida donde tendrás como objetivo matar al gran dragón protector de la cueva. Si quieres aumentar tu poder o tu vida inicial para combatir contra este dragon deberás ir por el mapa buscando elementos que te proporcionen estas mejoras, pero no sin antes haber matado a los dragones protectores de estos elementos que son súbditos del protector de la cueva.
 
@@ -55,7 +55,7 @@ Si quieres llegar a entrar a la cueva tendrás que encontrar también por el map
 > NOTA: sólo contarás con una pistola y tu inteligencia para poder conseguir el objetivo
 
 
-### 2.2. Descripción del mapa
+### Descripción del mapa
 En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comentado anteriormente, entre los elementos que podemos encontrar pueden ser los siguientes:
   - Mapa exterior con agua, palmeras, montañas, etc
   - Cueva dentro de la montaña
@@ -66,7 +66,7 @@ En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comenta
   - Oasis, donde se encuentran los elementos anteriores
 <br>
 
-## 3. Estructura de los scripts
+## Estructura de los scripts
 
 - Canvas
   - [CompassController.cs](./scripts/Canvas/CompassController.cs)
@@ -105,7 +105,7 @@ En el mapa encontraremos diferentes objetos y cosas que hacer como hemos comenta
 
 <br>
 
-## 4. Elementos externos usados
+## ♥ Elementos externos usados
 
 Para el juego se han usado elementos externos conseguidos en la **Asset Store** aunque posteriormente se han modificado a nuestro gusto como pueden ser los siguientes:
 
@@ -118,19 +118,19 @@ Para el juego se han usado elementos externos conseguidos en la **Asset Store** 
 
 <br>
 
-## 5. Cuestiones importantes para el uso
+## 🎮 Cuestiones importantes para el uso
 
 Para este juego se recomienda usar un mando de Play Station 4 ya que es con el que se ha configurado.
 
 ![mando ps4](./img/ps4.png)
 
 Este mando tendrá la siguiente configuración de teclas:
-- **X:** Disparar
-- **Triángulo:** Saltar
+- **Cuadrado:** Disparar
+- **Círculo:** Saltar
 - **Joystick Izquierdo:** mover al jugador
 <br>
 
-## 6. Hitos de programación logrados
+## 📋 Hitos de programación logrados
 
 En este juego se han aplicado muchas de las técnicas aprendidas en la asignatura y otras nuevas aprendidas a lo largo de la realización del proyecto.
 
@@ -145,7 +145,7 @@ En este juego se han aplicado muchas de las técnicas aprendidas en la asignatur
 
 <br>
 
-## 7. Aspectos destacables del juego
+## 😲 Aspectos destacables del juego
 
 - Se evitan mareos teniendo transiciones entre escenas
 - Sonido en el juego para tener una mejor inmersión en él.
@@ -158,7 +158,7 @@ En este juego se han aplicado muchas de las técnicas aprendidas en la asignatur
 
 <br>
 
-## 8. Metodología de trabajo
+## 🔧 Metodología de trabajo
 
 Para este proyecto se ha usado una metodología **Scrum**, de tal manera que hemos ido poniendo objetivos para una fecha en concreta, repartiendonos las tareas y haciendo reuniones en estas fechas de entregas para ver si hemos conseguido los objetivos propuestos, que poder mejorar y pensar en nuevos objetivos para la siguiente fecha.
 
@@ -166,7 +166,7 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
 
 <br>
 
-## 9. Reparto de tareas
+## ✍🏼 Reparto de tareas
 
 - **Óscar Moreira Estévez**
   - Recolectar objetos
@@ -195,7 +195,7 @@ Para llevar un control de todo el trabajo hemos usado **git** para el control de
   - Creación de la cueva
   - Ajuste de colliders
 
-## 10. Gifs de demostración del juego
+## 📹 Gifs de demostración del juego
 
 En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos tener en el juego.
 
@@ -249,20 +249,20 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
   
 <br>
 
-## 11. Enlaces de interés
+## 🔎 Enlaces de interés
 
-### 11.1. Gameplay del juego
+### Gameplay del juego
 En el siguiente enlace pueden encontrar un video de demostración del juego donde se demuestran todo lo creado en este proyecto:
 
 - [Enlace al gameplay](https://drive.google.com/drive/folders/1-cQTrgxszc4wIrp4r8fXu5XaZrM-wVMj?usp=sharing)
 
-### 11.2. APK
+### APK
 
 En este enlace encontrarán la apk del juego para Android para poder descargarla y probarlo:
 
 - [Enlace a la APK](https://drive.google.com/drive/folders/1YtmsQQzDkYqvRnYO_EpQO6FjYOqmcLBc?usp=sharing)
 
-### 11.3. Github Proyecto completo
+### Github Proyecto completo
 
 En el siguiente enlace encontrarán un repositorio de Github donde se encuentra todo el proyecto completo para poder descargarlo y ejecutarlo en Unity:
 
@@ -270,7 +270,7 @@ En el siguiente enlace encontrarán un repositorio de Github donde se encuentra 
   
 <br>
 
-## 12. Posibles mejoras a futuro
+## 💡 Posibles mejoras a futuro
 
 - Sería interesante tener una base de datos para guardar información del progreso del
 jugador ya sea una relacional o una no relacional. De esta manera si cerramos el juego y volvemos podemos seguir desde el punto que lo dejamos, guardando los datos como el lugar donde lo dejamos, vida, misiones conseguidas, etc.
