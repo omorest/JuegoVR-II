@@ -266,4 +266,13 @@ En el siguiente enlace encontrarán un repositorio de Github donde se encuentra 
 
 ## 12. Posibles mejoras a futuro
 
-- Guardar proceso del jugador
+- Sería interesante tener una base de datos para guardar información del progreso del
+jugador ya sea una relacional o una no relacional. De esta manera si cerramos el juego y volvemos podemos seguir desde el punto que lo dejamos, guardando los datos como el lugar donde lo dejamos, vida, misiones conseguidas, etc.
+
+- Poder implementar el uso de la voz ya que al ser android no nos dejará porque es solo una función de windows.
+
+- Implementar los mandos de realidad virtual en el juego para que sea aún más real la
+experiencia del usuario pero es un material del que no disponemos por lo que sería
+imposible.
+
+- Otra cosa que sería interesante es poder publicar el jueguo aunque para eso debería estar con una versión final y completa sin bugs, pero sería una idea curiosa pero imposible de hacer en este caso por tiempo.
