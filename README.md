@@ -121,7 +121,7 @@ Para este juego se recomienda usar un mando de Play Station 4 ya que es con el q
 Este mando tendrá la siguiente configuración de teclas:
 - **X:** Saltar
 - **Triángulo:** Disparar
-- **Joyctic Izquierdo:** mover al jugador
+- **Joystick Izquierdo:** mover al jugador
 <br>
 
 ## 6. Hitos de programación logrados
@@ -206,6 +206,8 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
     ![cueva](./img/cueva.png)
 
   - Gif en primera persona de la cueva
+
+    ![cueva gif](./gifs/gif_cueva.gif)
 
 - Movilidad del jugador
  
