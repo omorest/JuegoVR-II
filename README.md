@@ -1,4 +1,4 @@
-## JuegoVR-II <!-- omit in toc -->
+## Hunter Jaeger - II <!-- omit in toc -->
 
 - Universidad de La Laguna
 - **Asignatura:** Interfaces Inteligentes
