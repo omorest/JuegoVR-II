@@ -125,10 +125,16 @@ Este mando tendrá la siguiente configuración de teclas:
 <br>
 
 ## 6. Hitos de programación logrados
-- delegados
-- sonidos
-- animaciones
-- 
+
+En este juego se han aplicado muchas de las técnicas aprendidas en la asignatura y otras nuevas aprendidas a lo largo de la realización del proyecto.
+
+- Sistema de vida y de poder donde se activarán a través de métodos **delegados** para aumentar nuestra vida o poder.
+- **Brújula**
+  - En el juego contarás con un sistema de **sensor** como la brújula para orientarte en el juego y saber a donde ir.
+- **Sonido** del juego tanto en disparos, recolectar objetos o música del juego
+- **Animaciones** en el juego
+  - Podemos ver diferentes situaciones donde activaremos animaciones como el caso de matar a un dragón.
+- Uso de elementos de la **Asset Store** como la cueva, dragones, pistola, etc.
 
 <br>
 
