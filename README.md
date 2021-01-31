@@ -8,8 +8,8 @@
 
 ## Índice <!-- omit in toc -->
 
-- [1. Autores](#1-autores)
-- [2. Introducción](#2-introducción)
+- [👨🏼‍💻 1. Autores](#-1-autores)
+- [🗣 2. Introducción](#-2-introducción)
   - [2.1. Descripción del juego](#21-descripción-del-juego)
   - [2.2. Descripción del mapa](#22-descripción-del-mapa)
 - [3. Estructura de los scripts](#3-estructura-de-los-scripts)
@@ -30,7 +30,7 @@
 
 <br>
 
-## 1. Autores 
+## 👨🏼‍💻 1. Autores 
 
 - Óscar Moreira Estévez (alu0101209067)
 - Miguel Ángel Ordoñez Morales (alu0101281087)
@@ -38,7 +38,7 @@
 
 <br>
 
-## 2. Introducción
+## 🗣 2. Introducción
 
 Este juego llamado **Hunter Jaeger**, es un juego en **realidad virtual (VR)** creado para dispositivos Android creado con *Unity 3D*.
 
