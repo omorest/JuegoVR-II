@@ -222,7 +222,7 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
 
 - Disparar
   
-  ![disparo](./gif/disparo.gif)  
+  ![disparo](./gif/disparos.gif)  
    
 - Matar dragón
   
