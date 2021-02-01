@@ -203,6 +203,9 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
   - Imagen desde arriba del mapa
   
     ![mapa](./img/mapa_superior.png)
+  - Gif en primera persona del mapa
+
+    ![mapa_gif](./gif/mapa_jugador.gif)
 
 - Cueva
   - Imagen desde arriba de la cueva
@@ -211,39 +214,31 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
 
   - Gif en primera persona de la cueva
 
-    ![cueva gif](./gifs/gif_cueva.gif)
-
-- Movilidad del jugador
- 
-  ![movimiento](./gifs/movimiento.gif)
+    ![cueva gif](./gif/cueva_jugador.gif)
 
 - Brújula del juego
  
-  ![brujula](./gifs/brujula.gif)
+  ![brujula](./gif/mapa_jugador.gif)
 
 - Disparar
   
-  ![disparo](./gifs/disparo.gif)  
+  ![disparo](./gif/disparo.gif)  
    
 - Matar dragón
   
-  ![matar dragon](./gifs/matar_dragon.gif)
+  ![matar dragon](./gif/matar_dragon.gif)
   
-- Recoger vida
+- Recoger coleccionables
   
-  ![recoger vida](./gifs/recoger_vida.gif)
-  
-- Recoger poder
-  
-  ![](./gifs/)
-  
+  ![recoger vida](./gif/recoger_vida.gif)
+
 - Recoger granada
   
-  ![recoger granada](./gifs/recoger_vida.gif)
+  ![recoger granada](./gifs/recoger_granada.gif)
   
 - Lanzar granada para abrir la entrada de la cueva
   
-  ![lanzar granada](./gifs/lanzar_granada.gif)
+  ![lanzar granada](./gif/remper_entrada.gif)
   
 <br>
 
