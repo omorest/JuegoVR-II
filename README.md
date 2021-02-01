@@ -230,7 +230,7 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
   
 - Recoger coleccionables
   
-  ![recoger vida](./gif/recoger_vida.gif)
+  ![recoger vida](./gif/recoger_objetos.gif)
 
 - Recoger granada
   
