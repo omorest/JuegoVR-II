@@ -234,7 +234,7 @@ En los siguientes gifs e imágenes podremos ver diferentes acciones que podemos 
 
 - Recoger granada
   
-  ![recoger granada](./gifs/recoger_granada.gif)
+  ![recoger granada](./gif/recoger_granada.gif)
   
 - Lanzar granada para abrir la entrada de la cueva
   
